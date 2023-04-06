@@ -1,0 +1,52 @@
+html, body {
+    background-color: rgb(255, 255, 255);
+    color: blue;
+    scroll-behavior: smooth;
+   }
+p{     
+    color: rgb(0, 4, 255);
+}
+h1{
+    background-color:  gray;
+    color: rgb(0, 0, 0);
+    border-radius: 100%;
+    border-bottom: 1cm;
+    border-left: 10cm;
+    border-top: 1cm;
+    height: 60px;
+    text-align: center;
+}
+h2{
+    border-radius: 100%;
+    background-color: gray;
+    height: 40px;
+    color: blue;
+    text-align: center;
+}
+h3{
+    background-color: rgb(0, 129, 0);
+}
+ul{
+    color: darkgreen;
+    text-decoration: none;
+}
+a:link{
+    color: rgb(0,100,200);
+    background-color:rgb(200, 100, 0);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(0, 100, 100);
+    background-color: rgb(100, 100, 0);;
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(100, 100, 0);;
+    background-color: rgb(0, 100, 100);
+    text-decoration: none;    
+}
+a:active{
+    color: rgb(200, 100, 0);;
+    background-color: rgb(0, 100, 200);
+    text-decoration: none;
+}
